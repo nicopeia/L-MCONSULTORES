@@ -885,3 +885,42 @@ box-shadow: 0 0 0 0 rgba(29, 171, 209, .6), 0 0 0 0 rgba(29, 171, 209, .6);
     box-shadow: 3px 3px 3px 0 rgba(1, 0, 0, 0.6)
     border-color: black;
  }
+
+
+
+ #fondoServicios{
+   background:url("../img/torresbyn.jpg") no-repeat center center;
+
+   -webkit-background-size: cover;
+   background-size: cover;
+   background-attachment: fixed;
+   box-shadow: 0 0 0 0 rgba(1, 0, 0, 0.6), 0 0 0 0 rgba(0, 0, 0, 1.6);
+ }
+
+.overlayserv {
+  height: 550px;
+  padding:20px;
+  background:rgba(0, 0, 0, 0.80);
+
+  background:url("../img/10.png");
+ }
+
+.contenidoserv{
+  letter-spacing: 2px;
+  font-weight:lighter;
+  margin-top: 150px;
+  font-style: normal;
+  border-width: medium;
+  border-color: black;
+
+}
+
+.contenidoserv h1{
+  font-size: 70px;
+box-shadow: 4px 3px  4px rgba(1, 0, 0, 0.6));
+}
+
+.itemserv ul li{
+  padding: 4px;
+}
+
