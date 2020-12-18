@@ -923,3 +923,60 @@ box-shadow: 0 0 0 0 rgba(29, 171, 209, .6), 0 0 0 0 rgba(29, 171, 209, .6);
   padding: 5px;
 }
 
+
+/* quienes somos page*/
+
+
+
+
+#fondoServiciosQs{
+  background:url("../img/estudiobyn.jpg") no-repeat center center;
+
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  box-shadow: 0 0 0 0 rgba(1, 0, 0, 0.6), 0 0 0 0 rgba(0, 0, 0, 1.6);
+}
+
+.overlayservQs {
+
+ padding:20px;
+ background:rgba(0, 0, 0, 0.80);
+height: 600px;
+ background:url("../img/10.png");
+}
+
+.contenidoserv{
+ letter-spacing: 1px;
+ font-weight:lighter;
+ margin-top: 150px;
+ font-style: normal;
+ border-width: medium;
+ border-color: black;
+
+}
+
+.puntosInfo{
+ padding: 10px;
+}
+
+.puntosInfo ul li{
+ padding: 5px;
+}
+
+#separador {
+
+  background: url("../img/banner.jpg") no-repeat center center;
+padding: 0;
+-webkit-background-size: cover;
+background-size: cover;
+background-attachment: fixed;
+color:#fff;
+
+
+}
+
+.plantilla ul li{
+list-style: none;
+}
+
